@@ -1,0 +1,7 @@
+{
+  "name": "Word Count",
+  "id": "836137651041150966",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html"
+}
